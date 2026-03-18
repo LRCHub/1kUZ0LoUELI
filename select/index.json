@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "月を見ていた - Moongazing",
-  "base_artist": "米津玄師",
-  "createdAt": "2026-03-11T06:57:26.744941Z",
+  "base_track": "月を見ていた - Moongazing - Tsuki Wo Miteita - Moongazing",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-03-18T12:32:14.551341Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,14 @@
       "artist": "米津玄師",
       "has_synced": true,
       "path": "select/09_月を見ていた_-_Moongazing_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moongazing [月を見ていた]",
+      "artist": "Kenshi Yonezu [米津玄師]",
+      "has_synced": true,
+      "path": "select/10_Moongazing_[月を見ていた]_Kenshi_Yonezu_[米津玄師].lrc"
     },
     {
       "id": "petitlyrics_1",
