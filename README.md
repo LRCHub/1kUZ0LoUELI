@@ -1,4 +1,4 @@
-# 米津玄師 – 月を見ていた - Moongazing
+# Kenshi Yonezu – 月を見ていた - Moongazing - Tsuki Wo Miteita - Moongazing
 
 > **歌詞登録ステータス：同期歌詞あり**
 
